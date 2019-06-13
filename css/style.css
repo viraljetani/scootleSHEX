@@ -5,6 +5,10 @@ body {
     width:250px;
 }
 
+.navbar {
+    border-bottom:1px solid #ccc;
+}
+
 .footer {
     position: absolute;
     bottom: 0;
